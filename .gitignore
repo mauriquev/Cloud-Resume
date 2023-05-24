@@ -1,0 +1,17 @@
+# ignore images folder
+images*/
+
+#ignore all .html
+*.html
+
+#ignore all .js
+*.js
+
+#ignore all .css
+*.css
+
+#ignore DS_Store
+.DS_Store
+
+#ignore VSCode
+.vscode/
