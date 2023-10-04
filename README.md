@@ -6,7 +6,7 @@ The website is inspired by Forrest Brazeal's "AWS Cloud Resume Challenge", by us
 The website can he found here www.mqresume.com
 ## Architecture
 
-### tech Stack ###
+### Tech Stack ###
 * S3
 * Dynamo DB
 * Route 53
