@@ -5,7 +5,7 @@ This repo will have updates of my code and experience of the cloud resume challe
 The website is inspired by Forrest Brazeal's "AWS Cloud Resume Challenge", by using a combination of AWS services.
 The website can he found here www.mqresume.com
 ## Architecture
-
+![Image](architecture.jpg)
 ### Services ###
 * S3
 * Dynamo DB
