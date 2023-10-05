@@ -6,17 +6,14 @@ The website is inspired by Forrest Brazeal's "AWS Cloud Resume Challenge", by us
 The website can he found here www.mqresume.com
 ## Architecture
 
-### Tech Stack ###
+### Services ###
 * S3
 * Dynamo DB
 * Route 53
 * CloudFront
-* AWS Amplify
 * Gateway
 * Lambda
 * ACM
-* HTML
-* Javascript
-* CSS
+  
 
 The website's HTML, JS, and CSS files are stored in an S3 bucket. The website is deployed using CloudFront for content distribution and is accessed securely via HTTPS. Route 53 and ACM are used to redirect traffic to the specified domain and manage SSL certificates. Additionally, a Lambda function is implemented to count visitors and save the count to a DynamoDB table, which is then displayed at the bottom of the webpage.
