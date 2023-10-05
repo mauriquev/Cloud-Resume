@@ -10,6 +10,7 @@ The website can he found here www.mqresume.com
 * S3
 * Dynamo DB
 * Route 53
+* CloudFront
 * AWS Amplify
 * Gateway
 * Lambda
